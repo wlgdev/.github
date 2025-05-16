@@ -4,7 +4,7 @@
   - [Pull Request Review](../docs/pr/REVIEW.md)
 
 # 📘 Code Review - most used Emoji's
-Emojis tells a lot, it's a good practice to use it during code review/comments.
+Emojis tell a lot, it's a good practice to use it during code review/comments.
 
 |                                       |             `:code:`             | Meaning                                                                                                                                                                                        |
 |:-------------------------------------:|:--------------------------------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
